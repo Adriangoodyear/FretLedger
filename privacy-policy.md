@@ -40,9 +40,7 @@ The App does not knowingly collect any personal information from children or use
 This Privacy Policy may be updated from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this document.
 
 ## Contact
-If you have any questions about this Privacy Policy, please contact:
-
-[Insert Contact Email]
+If you have any questions about this Privacy Policy, please contact via Github.
 
 ---
 
